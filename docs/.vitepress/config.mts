@@ -56,7 +56,7 @@ const vitePressConfig = {
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/moran0710/OpenMoPluginsDocs/' }
     ]
   },
   lastUpdated: true
