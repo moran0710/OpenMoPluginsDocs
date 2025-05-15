@@ -6,6 +6,8 @@
 
 一个简单好用的玩家封禁插件
 
+支持版本：1.8.8+
+
 ## 介绍
 
 MoModeratorPlus是一个简单好用的玩家封禁插件，支持以下功能：
@@ -14,6 +16,7 @@ MoModeratorPlus是一个简单好用的玩家封禁插件，支持以下功能�
  - `MySQL`支持！
  - 自定义的**封禁提示**
  - 向全服公布封禁信息
+ - （1.16以上）**RGB颜色支持！**
  - 支持[PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)占位符
   
 ## 快速上手
