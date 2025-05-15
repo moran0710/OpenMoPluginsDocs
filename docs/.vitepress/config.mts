@@ -28,6 +28,7 @@ const vitePressConfig = {
                   {text: "介绍", link:"/bukkit/momoderatorplus"},
                   {text: "指令列表", link:"/bukkit/momoderatorplus/commands"},
                   {text: "配置文件", link:"/bukkit/momoderatorplus/config-examples"},
+                  {text: "跨服同步", link:"/bukkit/momoderatorplus/sync"},
                 ]
               },
               {
