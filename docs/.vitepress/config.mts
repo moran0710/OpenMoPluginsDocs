@@ -17,6 +17,7 @@ const vitePressConfig = {
     sidebar:  [
           {text: "项目介绍", link:"/guide/whats-this"},
           {text: "项目导航", link:"/guide/projects"},
+          {text: "日志", link:"/guide/dairy"},
           {
             text: "Bukkit项目", 
             items: [
