@@ -28,9 +28,8 @@ Moran0710: 以后插件都会基于[Paper API](https://jd.papermc.io/paper/1.21.
 
 使用Spigot以及Spigot分叉的腐竹请注意
 
-另外，除了一些基于新版本特性的功能（比如1.21.6的[数据包UI](https://www.bilibili.com/video/BV1NUEcz5E4b)和[定位条](https://www.bilibili.com/video/BV1gwLtzSEAb)），大部分与版本无关的功能将基于1.20.1时的[Spigot API](https://bukkit.windit.net/javadoc/)开发，最大程度保证跨版本兼容性
+另外，除了一些基于新版本特性的功能（比如1.21.6的[数据包UI](https://www.bilibili.com/video/BV1NUEcz5E4b)和[定位条](https://www.bilibili.com/video/BV1gwLtzSEAb)），大部分与版本无关的功能将基于[1.20.1时的Paper API](https://jd.papermc.io/paper/1.20.1/)开发，最大程度保证跨版本兼容性
 
-当然，不排除在很久以后彻底放弃对高于1.21.4版本的[Spigot](https://www.spigotmc.org/wiki/spigot/)支持的可能
 
 推荐各位腐竹转向[Paper](https://papermc.io/)以及Papar分叉，Paper的性能和社区活跃度优于Spigot
 
