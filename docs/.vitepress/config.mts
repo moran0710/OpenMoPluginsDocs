@@ -41,6 +41,14 @@ const vitePressConfig = {
                   {text: "配置文件", link:"/bukkit/mosimpletitle/config-examples"}
                 ]
               },
+              {
+                text: "LegendaryGuildRankAddon", 
+                link:"/bukkit/LegendaryGuildRankAddon/", // 修正链接格式，添加斜杠
+                collapsed: true,
+                items: [
+                  {text: "介绍", link:"/bukkit/LegendaryGuildRankAddon"},
+                ]
+              },
             ]
           },
         ],
