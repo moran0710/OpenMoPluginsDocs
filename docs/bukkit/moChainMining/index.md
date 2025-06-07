@@ -1,5 +1,11 @@
 # MoChainMining
 
+![](https://img.shields.io/github/license/moran0710/MoChainMining)
+![MoPlugins](https://img.shields.io/badge/PoweredBy-OpenMoPlugin-blue)
+![Static Badge](https://img.shields.io/badge/Minecraft-1.12+-blue)
+
+
+
 一个基于权限的轻量好用的连锁挖矿插件！
 
 ## 插件介绍
