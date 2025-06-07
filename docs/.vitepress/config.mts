@@ -48,6 +48,14 @@ const vitePressConfig = {
                 items: [
                   {text: "介绍", link:"/bukkit/LegendaryGuildRankAddon"},
                 ]
+              },{
+                text: "MoChainMining", 
+                link:"/bukkit/moChainMining/", // 修正链接格式，添加斜杠
+                collapsed: true,
+                items: [
+                  {text: "介绍", link:"/bukkit/moChainMining/"},
+                  {text: "使用例", link:"/bukkit/moChainMining/example/"},
+                ]
               },
             ]
           },
