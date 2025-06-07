@@ -30,7 +30,7 @@ plugin-chain-mining-10m:
     - 'sound: entity.ender_dragon.shoot'
     - 'console: lp user %player_name% permission settemp MoChainMining.command true 10m'
     - 'tell: §b连锁挖矿插件已经安装完成！'
-    - 'tell: §b有效时长：10分支'
+    - 'tell: §b有效时长：10分钟'
     - 'tell: §b使用/cm命令以开启/关闭连锁挖矿！'
   price: 0
   points: 0
