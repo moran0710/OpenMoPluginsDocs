@@ -3,12 +3,12 @@
 以下是MoChainMining的配置文件示例
 
 ```yaml
-#############################
-# MoChainMining | 墨云连锁   #
-# 还没弄好的github链接
-# OpenMoPlugins Project
-# Documents:没整好
-#############################
+################################################################
+# MoChainMining | 墨云连锁                                      #
+# Github: https://github.com/moran0710/MoChainMining           #
+# OpenMoPlugins Project                                        #
+# Documents: https://openmo.molab.top/bukkit/moChainMining/    #
+################################################################
 
 # 全局设置
 global:
