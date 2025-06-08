@@ -59,7 +59,7 @@ const vitePressConfig = {
                 ]
               },{
                 text: "MoExpCtrl",
-                link:"/bukkit/moExpCtrl/", // 修正链接格式，添加斜杠
+                link:"/bukkit/MoExpCtrl/", // 修正链接格式，添加斜杠
                 collapsed: true,
                 items: [
                   {text: "介绍", link:"/bukkit/MoExpCtrl/"},
