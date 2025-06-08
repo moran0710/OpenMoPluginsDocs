@@ -57,6 +57,15 @@ const vitePressConfig = {
                   {text: "配置文件示例", link:"/bukkit/moChainMining/config/"},
                   {text: "使用例", link:"/bukkit/moChainMining/example/"},
                 ]
+              },{
+                text: "MoExpCtrl",
+                link:"/bukkit/moExpCtrl/", // 修正链接格式，添加斜杠
+                collapsed: true,
+                items: [
+                  {text: "介绍", link:"/bukkit/moExpCtrl/"},
+                  {text: "配置文件示例", link:"/bukkit/moExpCtrl/config/"},
+                  {text: "使用例", link:"/bukkit/moExpCtrl/example/"},
+                ]
               },
             ]
           },

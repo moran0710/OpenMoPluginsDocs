@@ -26,5 +26,16 @@ features:
     link: /bukkit/mosimpletitle/index.html
     linkText: 👉 插件文档
 
+  - title: 🗡 MoExpCtrl
+    details: 控制你的玩家经验获取速度
+    link: bukkit/MoExpCtrl/
+    linkText: 👉 插件文档
+    
+  - title: 🗡 MoChainMining
+    details: 快速还轻量的连锁挖矿！
+    link: bukkit/MoChainMining/
+    linkText: 👉 插件文档
+    
+
 ---
 
