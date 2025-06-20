@@ -68,7 +68,7 @@ const vitePressConfig = {
                 ]
               },{
                 text: "MultiLoginCommand",
-                link:"/bukkit/MultiLoginCommand/", // 修正链接格式，添加斜杠
+                link:"/bukkit/multiLoginCommand/", // 修正链接格式，添加斜杠
                 collapsed: true,
                 items: [
                   {text: "介绍", link:"/bukkit/multiLoginCommand/"},
