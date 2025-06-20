@@ -4,13 +4,7 @@
 
 ## Bukkit插件
 
-如果需要最新构建，请访问[OpenMoPlugin构建站](https://build.molab.top/)
-
-### 管理
- - [MoModeratorPlus | 墨云协管](/bukkit/momoderatorplus/index.html) 👉 [开源地址](https://github.com/moran0710/MoModeratorPlus)
-
-### 杂项
- - [MoSimpleTitle | 简单公告](/bukkit/momoderatorplus/index.html) 👉 [开源地址](https://github.com/moran0710/MoSimpleTitle)
+请查阅本文档
 
 ## Bukkit插件友情链接
 
