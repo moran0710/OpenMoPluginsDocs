@@ -66,6 +66,15 @@ const vitePressConfig = {
                   {text: "配置文件示例", link:"/bukkit/MoExpCtrl/config/"},
                   {text: "使用例", link:"/bukkit/MoExpCtrl/example/"},
                 ]
+              },{
+                text: "MultiLoginCommand",
+                link:"/bukkit/MultiLoginCommand/", // 修正链接格式，添加斜杠
+                collapsed: true,
+                items: [
+                  {text: "介绍", link:"/bukkit/MultiLoginCommand/"},
+                  {text: "配置文件示例", link:"/bukkit/MultiLoginCommand/config/"},
+                  {text: "使用例", link:"/bukkit/MultiLoginCommand/example/"},
+                ]
               },
             ]
           },
