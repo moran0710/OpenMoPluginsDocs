@@ -1,12 +1,16 @@
 # MultiLoginCommand
 
+![MoPlugins](https://img.shields.io/badge/PoweredBy-OpenMoPlugin-blue)
+
+![License](https://img.shields.io/github/license/moran0710/MultiLoginCommand)
+
 在玩家使用猫踢螺钉登录时执行命令！
 
 ## 插件介绍
 
 MultiLoginCommand时一个MultiLogin拓展，在玩家使用MultiLogin登录子服时，可以在子服执行对应命令
 
-文档地址：[OpenMoPlugins](https://openmo.molab.top/bukkit/moChainMining/)
+文档地址：[OpenMoPlugins](https://openmo.molab.top/bukkit/multiLoginCommand/)
 
 - 支持设置首次登陆执行的命令
 - 支持对使用不同的登录凭证的玩家，执行不同的命令组
